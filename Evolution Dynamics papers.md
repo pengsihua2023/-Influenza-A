@@ -5,7 +5,7 @@
 3	[Development of PREDAC-H1pdm to model the antigenic evolution of influenza A/(H1N1) pdm09 viruses . 2023]()   
 4	[Prediction of Antigenic Distance in Influenza A Using Attribute Network Embedding .2023]()  
 5	[Integrating influenza antigenic dynamics with molecular evolution . 2014]()    
-6	Antigenic cartography of H1N1 influenza viruses using sequence-based antigenic distance calculation .2018]()    
+6	[Antigenic cartography of H1N1 influenza viruses using sequence-based antigenic distance calculation .2018]()    
 7	[Ecological and evolutionary dynamics of multi-strain RNA viruses . 2022 NATURE ECOLOGY & EVOLUTION]()    
 8	[Computation of Antigenicity Predicts SARS-CoV-2 Vaccine Breakthrough Variants .2022]()    
 9	[A human coronavirus evolves antigenically to escape antibody immunity .2021]()    
@@ -23,9 +23,7 @@
 21	[Predicting evolution . 2017 NATURE ECOLOGY & EVOLUTION]()    
 22	[Prediction, dynamics, and visualization of antigenic phenotypes of seasonal influenza viruses . 2016. PNAS]()   
 23	[The impact of COVID-19 nonpharmaceutical interventions on the future dynamics of endemic infections . 2020 PNAS ]()   
-24	
-A predictive fitness model for influenza .Nature 2014]()    
-
+24	[A predictive fitness model for influenza .Nature 2014]()    
 季节性人类 A/H3N2 流感病毒经历快速进化，导致流行毒株群体逐年发生显着的序列更替。 适应性突变响应人类免疫挑战，主要发生在抗原表位，即病毒表面蛋白血凝素的抗体结合域。 在这里，我们开发了一个血凝素适应度模型，可以预测病毒种群从一年到下一年的演变。 有两个因素可以确定菌株的适应性：适应性表位变化和表位外的有害突变。 我们使用所有先前菌株的种群遗传数据来推断给定年份中传播的菌株的两个适应度组成部分。 根据每个菌株的适应度和频率，我们预测其后代菌株在下一年的频率。 该适应性模型绘制了甲型流感的适应历史，并提出了疫苗选择的原则方法。 我们的结果要求对流感和其他快速进化的病原体进行更全面的流行病学研究，将抗原表型与通过遗传连锁耦合的其他病毒功能整合起来。  
 25	[Population immunity predicts evolutionary trajectories of SARS-CoV-2 。 Cell 2023 ]()  
 26	[Praemonitus praemunitus: can we forecast and prepare for future viral disease outbreaks? FEMS MICROBIOLOGY REVIEWS. 2023 ]()   
