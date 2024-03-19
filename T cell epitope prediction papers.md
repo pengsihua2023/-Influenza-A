@@ -4,9 +4,9 @@
 
 1	[T Cell Epitope Predictions (review ) 2020](https://www.annualreviews.org/docserver/fulltext/immunol/38/1/annurev-immunol-082119-124838.pdf?expires=1710870821&id=id&accname=ar-194041&checksum=5201CF726E30D3905B5CD1413BBA253F)  
 2	[Review and perspective on bioinformatics tools using machine learning and deep learning for predicting antiviral peptides(2023)](https://link.springer.com/article/10.1007/s11030-023-10718-3)  
-3	[IEPAPI: a method for immune epitope prediction by incorporating antigen presentation and immunogenicity(2023)]()    
-4	[A robust deep learning workflow to predict CD8+T-cell epitopes . 2023]()    
-5	[Prediction and validation of murine MHC class I epitopes of the recombinant virus VSV-GP(2023)]()    
+3	[IEPAPI: a method for immune epitope prediction by incorporating antigen presentation and immunogenicity(2023)](https://academic.oup.com/bib/article/24/4/bbad171/7179756?login=true)    
+4	[A robust deep learning workflow to predict CD8+T-cell epitopes . 2023](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-023-01225-z))    
+5	[Prediction and validation of murine MHC class I epitopes of the recombinant virus VSV-GP(2023)](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-023-01225-z)    
 6	[HLA-I and HLA-II Peptidomes of SARS-CoV-2: A Review(2023)]()    
 7	NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation by concurrent motif deconvolution and integration of MS MHC eluted ligand data (2020,Highly Cited Paper)]()    
 8	[MSBooster: improving peptide identification rates using deep learning-based features(2023)]()    
