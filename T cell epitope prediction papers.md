@@ -10,7 +10,7 @@
 6	[HLA-I and HLA-II Peptidomes of SARS-CoV-2: A Review(2023)](https://www.mdpi.com/2076-393X/11/3/548)    
 7	[NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation by concurrent motif deconvolution and integration of MS MHC eluted ligand data (2020,Highly Cited Paper)](https://academic.oup.com/nar/article/48/W1/W449/5837056?login=true)    
 8	[MSBooster: improving peptide identification rates using deep learning-based features(2023)](https://www.nature.com/articles/s41467-023-40129-9)    
-9	Deep neural networks predict class I major histocompatibility complex epitope presentation and transfer learn neoepitope immunogenicity(2023) NATURE MACHINE INTELLIGENCE](https://www.nature.com/articles/s42256-023-00694-6)   
+9	[Deep neural networks predict class I major histocompatibility complex epitope presentation and transfer learn neoepitope immunogenicity(2023) NATURE MACHINE INTELLIGENCE](https://www.nature.com/articles/s42256-023-00694-6)   
 10	[IEPAPI: a method for immune epitope prediction by incorporating antigen presentation and immunogenicity(2023)](https://academic.oup.com/bib/article/24/4/bbad171/7179756?login=true)   
 11	[IUP-BERT: Identification of Umami Peptides Based on BERT Features . 2022](https://www.mdpi.com/2304-8158/11/22/3742)    
 12	[MITNet: a fusion transformer and convolutional neural network architecture approach for T-cell epitope prediction (2023)](https://academic.oup.com/bib/article/24/4/bbad202/7186397?login=true)   
