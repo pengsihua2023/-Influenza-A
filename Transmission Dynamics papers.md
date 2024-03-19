@@ -1,8 +1,8 @@
 # Transmission Dynamics　
 
-1	Transmission Dynamics of Punique Virus in Tunisia .2022  　　　　
+1	Transmission Dynamics of Punique Virus in Tunisia .2022  
 2	The Genomic Evolution and the Transmission Dynamics of H6N2 Avian Influenza A Viruses in Southern China .2022  
-3	Competition of SARS-CoV-2 variants on the pandemic transmission dynamics .2023　　
+3	Competition of SARS-CoV-2 variants on the pandemic transmission dynamics .2023  
 4	Dynamics analysis of a delayed virus model with two different transmission methods and treatments . 2020 High cited　　
 5	On the reliability of predictions on Covid-19 dynamics: A systematic and critical review of modelling techniques .2021　　
 6	Numerical simulation and stability analysis of a novel reaction-diffusion COVID-19 model .2021　
