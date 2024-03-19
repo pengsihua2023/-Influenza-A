@@ -8,7 +8,7 @@
 4	[A robust deep learning workflow to predict CD8+T-cell epitopes . 2023](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-023-01225-z))    
 5	[Prediction and validation of murine MHC class I epitopes of the recombinant virus VSV-GP(2023)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.1100730/full)    
 6	[HLA-I and HLA-II Peptidomes of SARS-CoV-2: A Review(2023)](https://www.mdpi.com/2076-393X/11/3/548)    
-7	NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation by concurrent motif deconvolution and integration of MS MHC eluted ligand data (2020,Highly Cited Paper)](https://academic.oup.com/nar/article/48/W1/W449/5837056?login=true)    
+7	[NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation by concurrent motif deconvolution and integration of MS MHC eluted ligand data (2020,Highly Cited Paper)](https://academic.oup.com/nar/article/48/W1/W449/5837056?login=true)    
 8	[MSBooster: improving peptide identification rates using deep learning-based features(2023)](https://www.nature.com/articles/s41467-023-40129-9)    
 9	Deep neural networks predict class I major histocompatibility complex epitope presentation and transfer learn neoepitope immunogenicity(2023) NATURE MACHINE INTELLIGENCE](https://www.nature.com/articles/s42256-023-00694-6)   
 10	[IEPAPI: a method for immune epitope prediction by incorporating antigen presentation and immunogenicity(2023)](https://academic.oup.com/bib/article/24/4/bbad171/7179756?login=true)   
