@@ -1,4 +1,4 @@
-# -Influenza-A
+# Influenza-A
 
 ![figure 1](/images/influenza.png)  
 Figure 1 Influenza A and influenza B. The figure represents an influenza A virus particle or virion. Both influenza A and influenza B viruses are enveloped negative- sense RNA viruses with genomes comprising eight single- stranded RNA segments located inside the virus particle. Although antigenically different, the viral proteins encoded by the viral genome of influenza A and influenza B viruses have similar functions: the three largest RNA
